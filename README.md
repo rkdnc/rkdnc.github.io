@@ -1,2 +1,2 @@
-# rkdnc.github.io
-stuff and things
+# Basic-Portfolio
+Portfolio assignment
